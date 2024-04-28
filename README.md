@@ -12,9 +12,7 @@ This project is an application with a graphical user interface (GUI) that allows
 
 All necessary libraries and dependencies are included in the `requirements.txt` file, making it easy to install all the required components. To install the dependencies, simply run the following command in your terminal:
 
-             ```python
                 pip install -r requirements.txt
-             ```
 
 ## Testing
 
