@@ -2,6 +2,13 @@
 
 This project is an application with a graphical user interface (GUI) that allows annotating bone structures on ultrasound (USG) images. The main goal of this tool is to facilitate the identification and analysis of bone structures in medical images.
 
+## Photos
+### Before
+![image](https://github.com/AitenAndGo/USG_BONE_DETECTION/assets/87769038/fbc96ec4-916c-48b0-acb7-c8c4d739b88d)
+### After 
+![image](https://github.com/AitenAndGo/USG_BONE_DETECTION/assets/87769038/bf7ad858-5023-494e-ab24-d4f1b95964e7)
+
+
 ## Features
 
 - **Graphical Interface**: The application provides a simple, intuitive user interface for easily annotating bone structures on images.
